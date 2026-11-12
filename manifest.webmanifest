@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "BAR 縁-YORU-",
+  "short_name": "BAR 縁-YORU-",
+  "lang": "ja",
+  "description": "BAR 縁-YORU-のカクテルレシピと常連さんメモを手元に。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171217",
+  "theme_color": "#20151c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
